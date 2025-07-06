@@ -15,9 +15,9 @@ GitShot: A new way for developers to level up their projects. 🌟
 
 ## Features
 
-- 🤖 **Launch tokens using your GitHub login**: 
-- 📊 **Get certified and snag a special badge**:
-- 🔄 **Unlock extra dev rewards.**:
+- 🤖 **Launch tokens using your GitHub login**
+- 📊 **Get certified and snag a special badge**
+- 🔄 **Unlock extra dev rewards**
 
 - Check it out if you're looking to boost your project visibility.
 
