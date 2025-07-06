@@ -1,3 +1,10 @@
+<h2 align="center">
+ <br>
+ <img src="" width="250">
+ <br>
+</h2>
+
+
 # Gitshotweb
 Gitshot Website introduction
 
