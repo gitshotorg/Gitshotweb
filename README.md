@@ -1,6 +1,6 @@
 <h2 align="center">
  <br>
- <img src="![Hyj0v02c_400x400](https://github.com/user-attachments/assets/b5a868d9-37a6-4392-aa8a-8de8cf5e3612)" width="250">
+ <img src="https://github.com/user-attachments/assets/b5a868d9-37a6-4392-aa8a-8de8cf5e3612" width="250">
  <br>
 </h2>
 
