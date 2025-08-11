@@ -111,22 +111,11 @@ Impersonators muddy the waters, steal credit, and undermine trust. Devs pour the
 
 ## 📣 Links
 
-- [Gitshot Official Site](http://gitshot.org)
-- [Twitter](https://twitter.com/gitshot_org)
+- [Gitshot Official Site](http://gitshot.org) gitshot.org
+- [Twitter](https://twitter.com/gitshot_org) @GitShot_org
 - Contact: team@gitshot.org (update as needed)
 
 ---
 
 _WAGMI, builders. Let’s make authentic work pay._
-
-
-
-
-
- ## Description
- GitShot will provide a dedicated platform for GitHub developers, where each user must log in via GitHub before they can proceed with token deployment.
-
- web: http://gitshot.org
- 
- twitter/x: https://x.com/GitShot_org
  
