@@ -1,6 +1,6 @@
 <!-- Project Banner (customize with your badge/image if you have one) -->
 <p align="center">
-  <img src="[https://gitshot.org/logo.png](https://github.com/user-attachments/assets/b5a868d9-37a6-4392-aa8a-8de8cf5e3612)" alt="Gitshot Logo" height="120">
+  <img src="https://github.com/user-attachments/assets/b5a868d9-37a6-4392-aa8a-8de8cf5e3612" alt="Gitshot Logo" height="120">
 </p>
 
 # Gitshot
