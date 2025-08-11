@@ -1,7 +1,8 @@
 <!-- Project Banner (customize with your badge/image if you have one) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5a868d9-37a6-4392-aa8a-8de8cf5e3612" alt="Gitshot Logo" height="300">
+  <img src="https://github.com/user-attachments/assets/f8bb17cb-7170-4b5f-8b3d-31a3b65e7168" alt="Gitshot Logo" height="300">
 </p>
+
 
 # Gitshot
 > **Real Developers. Real Tokens. Verified on Solana.**
@@ -48,6 +49,9 @@ Web3 is full of promise—but for many, it's also full of impersonators, scammer
   - All launches are on the Solana blockchain, with full traceability back to the developer.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c84806b-86bf-4a67-9f89-ba76e3d3c549" alt="Gitshot Logo" height="300">
+</p>
 
 ## ⚡ How It Works
 
@@ -108,6 +112,11 @@ Impersonators muddy the waters, steal credit, and undermine trust. Devs pour the
 > **No more fake devs. No more anonymous rugs. Gitshot is where open-source meets real accountability—and real rewards.**
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f03dcf5b-ac5a-476d-818f-5a5e156d0b4d" alt="Gitshot Logo" height="300">
+</p>
+
 
 ## 📣 Links
 
